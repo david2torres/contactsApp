@@ -1,0 +1,6 @@
+{
+	"appId": "com.contact.plugin",
+	"appName": "contact",
+	"webDir": "dist/contact",
+	"bundledWebRuntime": false
+}
